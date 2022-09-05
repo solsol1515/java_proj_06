@@ -14,5 +14,13 @@ public class ConsolOutput {
 		System.out.print("하세요. ");
 		
 		System.out.println();
-}
+
+
+		System.out.println("추가된 내용1");
+		
+
+
+
+
+	}
 }
